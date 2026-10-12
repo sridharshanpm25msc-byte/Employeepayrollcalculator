@@ -1,0 +1,6 @@
+# Java build output
+bin/
+*.class
+
+# Eclipse metadata
+.settings/
